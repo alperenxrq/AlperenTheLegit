@@ -14,9 +14,9 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobcode1337&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenTheLegit&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mobcode1337&show_icons=true&theme=dark" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlperenTheLegit&show_icons=true&theme=dark" />
    <br>
    <img src="https://metrics.lecoq.io/AlperenTheLegit" />
   </p>
