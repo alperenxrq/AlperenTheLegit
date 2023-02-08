@@ -1,6 +1,6 @@
-<h1 align="center">MobCode1337</h1>
+<h1 align="center">Alperen The Legit</h1>
 
-<h3 align="center">C++ Beginner</h3>
+<h3 align="center">İntermediate Level Developer</h3>
 <p align="center">
  <a href="https://discord.gg/qXXcRH3sRt"><img src="https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
