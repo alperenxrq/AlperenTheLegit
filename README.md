@@ -4,7 +4,6 @@
 <p align="center">
  <a href="https://discord.gg/wentra"><img src="https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?alperenxrq&color=green" />
 </p>
 
 <p align="center">
