@@ -1,10 +1,10 @@
-<h1 align="center">Alperen The Legit</h1>
+<h1 align="center">alperenxrq</h1>
 
 <h3 align="center">İntermediate Level Developer</h3>
 <p align="center">
  <a href="https://discord.gg/qXXcRH3sRt"><img src="https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-AlperenTheLegit&color=green" />
+ <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?alperenxrq&color=green" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenTheLegit&layout=compact&theme=dark" />  
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenxrq&layout=compact&theme=dark" />  
    <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlperenTheLegit&show_icons=true&theme=dark" />
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alperenxrq&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/AlperenTheLegit" />
+   <img src="https://metrics.lecoq.io/alperenxrq" />
   </p>
 </details>
